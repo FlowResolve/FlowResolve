@@ -1,4 +1,4 @@
-version=0.9
+version=0.9.1
 url=https://t.me/FlowResolveBot
 new=Первая бета FlowResolve
 new=Пишите идеи и ошибки в бота
